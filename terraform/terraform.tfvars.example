@@ -1,0 +1,3 @@
+project_id  = "your-project-id"
+domain_name = "example.com"
+db_password = "your-secure-password"
